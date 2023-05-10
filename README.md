@@ -1,1 +1,1 @@
-# vk_test_task_2023
+# Embedding's для MovieLens 27M датасета
